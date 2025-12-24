@@ -1,0 +1,9 @@
+bin/*
+target/*
+server.log
+Requirements/
+.idea/
+.settings
+uploads/*
+database_migration_safety_checklists.sql
+build.log
